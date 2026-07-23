@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Bem vindo a página de Jorge Abreu
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá meu nome é **Jorge Abreu**, trabalho na PMMG, lotado na Diretoria de Finanças, gosto de aprender sobre tecnologia e compartilhar meu conhecimento e ajudar meus colegas de trabalho no dia a dia.
 
-## Commands
+**Veja meu perfil no Github:** [JorgeASAbreu](https://github.com/JorgeASAbreu)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## O que estou aprendendo:
+- Git
+- GitHub
+-Comandos do Termninal
 
-## Project layout
+## O que ainda vou aprender:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+-Python
+-Automatização
