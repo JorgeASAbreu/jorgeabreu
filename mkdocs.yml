@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: Jorge Abreu - Personal Page
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: red
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - blog

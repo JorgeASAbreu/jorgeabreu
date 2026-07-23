@@ -7,9 +7,9 @@ Olá meu nome é **Jorge Abreu**, trabalho na PMMG, lotado na Diretoria de Finan
 ## O que estou aprendendo:
 - Git
 - GitHub
--Comandos do Termninal
+- Comandos do Terminal
 
 ## O que ainda vou aprender:
 
--Python
--Automatização
+- Python
+- Automatização
